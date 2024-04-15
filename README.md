@@ -1,4 +1,5 @@
 # test
 
-[ ] Hello world
-[ ] Calculator 
+[ ] Hello world  
+[ ] Calculator  
+[x] Done
