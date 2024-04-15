@@ -2,4 +2,4 @@
 
 [ ] Hello world  
 [ ] Calculator  
-[x] Done
+[.] Done
